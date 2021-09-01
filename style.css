@@ -194,7 +194,7 @@ body {
   font-size: 28px;
   line-height: 60px;
   text-align: center;
-  border-radius: 30px;
+  border-radius: 0px;
   box-shadow: 0 13px 26px rgba(0, 0, 0, 0.2), 0 3px 6px rgba(0, 0, 0, 0.2);
 }
 .wrapper .social-icons .icon:nth-of-type(1) a {
